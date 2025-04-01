@@ -37,35 +37,7 @@
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Auth0r-C0dez/Neurathon-25.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Neurathon-25
-   ```
-
-3. Install the required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
-1. Load the fine-tuned models from the `Models/` directory.
-2. Use the notebooks in the `Notebooks/` directory to understand the training and inference processes.
-3. Run the backend server to handle API calls:
-
-   ```bash
-   python backend/server.py
-   ```
-
-4. Access the frontend interface to input user prompts and generate floor plans.
+Download the repo and run the notebooks with run time as T4 GPU.
 
 ## Contributing
 
